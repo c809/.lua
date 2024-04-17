@@ -2,7 +2,7 @@ getgenv().SecureMode = true
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "The Roads of Indonesia",
+    Name = "Southwest Indonesia",
     LoadingTitle = "Rayfield",
     LoadingSubtitle = "Interface Suite",
     ConfigurationSaving = {
